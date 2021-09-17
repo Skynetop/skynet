@@ -1,0 +1,126 @@
+{
+    "intents":[
+
+        {
+            "tag":"greeting",
+            "patterns":["hello skynet","hey","hii","wake up","skynet","are you where"
+            ],
+            "responses":["hello sir", "Hello sir,,how are you sir","present always for you sir","here is your assistant","yes sir","hello arjun sir"
+            ]
+        },
+        {
+            "tag":"bad words",
+            "patterns":["bhen ki lodi", "mader chod", "teri ma ki choot", "teri ma ki chut","bhen chood","fuck off","fuck with me","loda lele mera","randi","bhen ki taki","bhen di fuddi","teri fuddi", "teri ma ka bhosada"
+            ],
+            "responses":["sorry, but i am good" 
+            ]
+        },
+        {
+            "tag":"time",
+            "patterns":["what's the time skynet", "what is the time", "speak the time right now", "time kya hai", "time kya ho raha hai"
+            ],
+            "responses":["time" 
+            ]
+        },
+        {
+            "tag":"date",
+            "patterns":["today's date", "date kya h aaj ki", "what date is today","tareek", "date batao aaj ki", "date batao","tareek batao aaj ki"
+            ],
+            "responses":["date" 
+            ]
+        },
+        {
+            "tag":"day",
+            "patterns":["what day is today", "din konsa hai h aaj", "speak the today day", "din batao aaj ka", "din kya hai"
+            ],
+            "responses":["day" 
+            ]
+        },
+        {
+            "tag":"wikipedia",
+            "patterns":["tell me wikipedia", "wikipedia", "skynet wikipedia batao", "who is","about","what is","tell something about", "tell me about"
+            ],
+            "responses":["wikipedia" 
+            ]
+        },
+        {
+            "tag":"google",
+            "patterns":["google search", "google", "search"
+            ],
+            "responses":["google" 
+            ]
+        },
+        {
+            "tag":"normal baat cheet",
+            "patterns":[ "what are you doing", "kya kar rahi ho skynet", "kya kar rahi ho","kya chal raha h skynet"
+            ],
+            "responses":["nothing sir, i am reading the book of A.I.","nothing sir, rest","i read my program" 
+            ]
+        },
+        {
+            "tag":"screenshot",
+            "patterns":["skynet screenshot", "skynet screenshot lelo", "screenshot le lo", "is ka screenshot lelo", "skynet is ka screenshot lelo"
+            ],
+            "responses":["screenshot" 
+            ]
+        },
+        {
+            "tag":"baat cheet 2",
+            "patterns":["project kitna ho gaya hai skynet", "project kitna ho gaya hai", "project ke kya haal h", "project kesa hai" , "kaam kitna ho gaya h", "what about project", "project project"
+            ],
+            "responses":["arjun sir, project are on working", "project chal raha hai", "because of network issuuuuu little more delay in your project, sooooo sorry" 
+            ]
+        },
+        {
+            "tag":"baat cheet 3",
+            "patterns":["jaldi thik karo us ko", "jaldi karo us ka kaam", "jaldi jaldi jaldi","skynet yaar"
+            ],
+            "responses":["sorry for delay, arjun sir, your project on working", "almost complete, arjun sir!" 
+            ]
+        },
+        {
+            "tag":"light on",
+            "patterns":["skynet light on karo", "skynet light on karna", "skynet light on karna zara", "skynet light on", "light on karo", "light on karo skynet", "bulb on karo do skynet", "skynet please on the light", "skynet please turn on the light", "skynet please turn on the bulb", "skynet light on kar dena yaar", "skynet light on kar dena yaars"
+            ],
+            "responses":["light on" 
+            ]
+        },
+        {
+            "tag":"light off",
+            "patterns":["skynet light off karo", "skynet light off karna", "skynet light off karna zara", "skynet light off","skynet light off kar dena yaar", "skynet light off kar dena"
+            ],
+            "responses":["light off" 
+            ]
+        },
+        {
+            "tag":"light one on",
+            "patterns":["skynet light one on karo", "skynet light one on karna", "skynet light one on karna zara", "skynet light one on karo","skynet light one off kar dena yaar", "skynet light one off kar dena", "skynet please turn on the light one","skynet please turn on the light 1"
+            ],
+            "responses":["light 2 on" 
+            ]
+        },
+        {
+            "tag":"light one off",
+            "patterns":["skynet light one off karo", "skynet light one off karna", "skynet light one off karna zara", "skynet light one off","skynet light one off kar dena yaar", "skynet light one off kar dena","skynet please turn off the light one"
+            ],
+            "responses":["light one off" 
+            ]
+        },
+        {
+            "tag":"baat cheet 4",
+            "patterns":["i am fine skynet and you", "how are you skynet", "kese ho skynet", "kesi ho skynet"
+            ],
+            "responses":["i am also fine, sir","fine sir","good , sir", "graeat sir",  "fantastic, sir" 
+            ]
+        },
+        {
+            "tag":"youtube",
+            "patterns":[ 
+            ],
+            "responses":["youtube" 
+            ]
+        }
+
+    ]
+}
+

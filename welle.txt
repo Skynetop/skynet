@@ -1,0 +1,38 @@
+{
+    "intents":[
+
+        {
+            "tag":"greeting",
+            "patterns":["hello","hey","hii","wake up","skynet","are you where"
+            ],
+            "responses":["hello sir", "how are you sir","present always for you sir","me idhar hu sir","me yahi hu sir","hello"
+            ]
+        },
+        {
+            "tag":"breakup",
+            "patterns":["good bye","see you later","sleep","bye","buy","tata","bye skynet","buy skynet","out","you need rest","nikal ja yaha se", "exit","by"
+            ],
+            "responses":["good by ", "good bye","good buy","see you later","bye bye","always for you sir","i am going","nice to meet you"
+            ]
+        },
+        {
+            "tag":"bad words",
+            "patterns":["bhen ki lodi", "mader chod", "teri ma ki choot", "teri ma ki chut","bhen chood","fuck off","fuck with me","loda lele mera","randi","bhen ki taki","bhen di fuddi","teri fuddi" 
+            ],
+            "responses":["sorry, but i am good" 
+            ]
+        }
+    ]
+}
+
+
+
+
+
+        {
+            "tag":"how to do",
+            "patterns":["how to do mode open", "how to do mode open kar do", "how to do mode open kar do skynet", "ye kese karna hai"
+            ],
+            "responses":["how to do" 
+            ]
+        }
