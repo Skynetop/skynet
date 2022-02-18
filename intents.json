@@ -9,13 +9,6 @@
             ]
         },
         {
-            "tag":"bad words",
-            "patterns":["bhen ki lodi", "mader chod", "teri ma ki choot", "teri ma ki chut","bhen chood","fuck off","fuck with me","loda lele mera","randi","bhen ki taki","bhen di fuddi","teri fuddi", "teri ma ka bhosada"
-            ],
-            "responses":["sorry, but i am good" 
-            ]
-        },
-        {
             "tag":"time",
             "patterns":["what's the time skynet", "what is the time", "speak the time right now", "time kya hai", "time kya ho raha hai"
             ],
